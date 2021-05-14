@@ -1,0 +1,14 @@
+{
+  "name": "web",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages/web"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

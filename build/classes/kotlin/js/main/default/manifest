@@ -1,0 +1,7 @@
+builtins_platform=JS
+unique_name=web
+ir_version=1.0.0
+compiler_version=1.4.32
+depends=androidx.compose\:web androidx.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:kotlinx-collections-immutable org.jetbrains.kotlinx\:atomicfu kotlin
+abi_version=1.4.2
+metadata_version=1.4.1
